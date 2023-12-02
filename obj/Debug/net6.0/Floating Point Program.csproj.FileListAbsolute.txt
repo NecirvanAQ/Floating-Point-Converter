@@ -1,0 +1,14 @@
+E:\_School\Computer Science\Floating Point Program\bin\Debug\net6.0\Floating Point Program.exe
+E:\_School\Computer Science\Floating Point Program\bin\Debug\net6.0\Floating Point Program.deps.json
+E:\_School\Computer Science\Floating Point Program\bin\Debug\net6.0\Floating Point Program.runtimeconfig.json
+E:\_School\Computer Science\Floating Point Program\bin\Debug\net6.0\Floating Point Program.dll
+E:\_School\Computer Science\Floating Point Program\bin\Debug\net6.0\Floating Point Program.pdb
+E:\_School\Computer Science\Floating Point Program\obj\Debug\net6.0\Floating Point Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\Computer Science\Floating Point Program\obj\Debug\net6.0\Floating Point Program.AssemblyInfoInputs.cache
+E:\_School\Computer Science\Floating Point Program\obj\Debug\net6.0\Floating Point Program.AssemblyInfo.cs
+E:\_School\Computer Science\Floating Point Program\obj\Debug\net6.0\Floating Point Program.csproj.CoreCompileInputs.cache
+E:\_School\Computer Science\Floating Point Program\obj\Debug\net6.0\Floating Point Program.dll
+E:\_School\Computer Science\Floating Point Program\obj\Debug\net6.0\refint\Floating Point Program.dll
+E:\_School\Computer Science\Floating Point Program\obj\Debug\net6.0\Floating Point Program.pdb
+E:\_School\Computer Science\Floating Point Program\obj\Debug\net6.0\Floating Point Program.genruntimeconfig.cache
+E:\_School\Computer Science\Floating Point Program\obj\Debug\net6.0\ref\Floating Point Program.dll
